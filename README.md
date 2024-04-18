@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**cidaiji/cidaiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------------------
+[问答社区](https://answer.xianmoxukong.top/) 
 
-Here are some ideas to get you started:
+[网站](https://xianmoxukong.top/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[作曲软件](https://cidaiji.com/)  
+
+[导航页面](https://xianmoxukong.top/download/apps/)  
+
+[安全软件](https://bobouge.com)
+
+----------------------------------------------
+✅如果你需要反馈BUG可以在【QQ:2453224064】反馈
+
+✅如果你需要反馈BUG可以在【QQ:2453224064】反馈
+
+---------------------------------------------
+
+💕本社区所有软件都是开源的，并且如果你改动后使用不需要声明！
+
+---------------------------------------------
+
+© 2023-2024 陷没虚空个人开发测试网. All rights reserved.
