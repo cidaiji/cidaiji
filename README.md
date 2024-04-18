@@ -17,4 +17,14 @@
 
 --------------------------------------------
 
+适应各种设备尺寸📰
+
+![Web-image]  ![Windows-image]  ![MacOS-image]  ![Linux-image]
+
+[Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
+[Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
+[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
+[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+
+
 © 2023-2024 陷没虚空个人开发测试网. All rights reserved.
